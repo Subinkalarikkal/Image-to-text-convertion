@@ -1,2 +1,2 @@
 # Image-to-text-convertion
-This project will convert the given image into text
+This project will convert the given image into text using Python
